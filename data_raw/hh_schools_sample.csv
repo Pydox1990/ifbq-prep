@@ -1,0 +1,201 @@
+school_id,district,school_type,pupils_enrolled,disadv_pct,rating_teaching,rating_environment,rating_leadership,rating_overall_num,rating_overall
+1,Wandsbek,secondary,1141,71.9,4,2,3,2,Gut
+2,Altona,secondary,147,39.2,3,1,4,2,Gut
+3,Hamburg‑Mitte,primary,520,39.8,1,2,4,4,Mangelhaft
+4,Eimsbuettel,primary,696,42.8,2,1,4,2,Gut
+5,Hamburg‑Mitte,secondary,313,36.2,4,3,2,1,Sehr gut
+6,Altona,secondary,937,43.4,3,3,3,3,Befriedigend
+7,Harburg,primary,1103,75.0,1,3,1,3,Befriedigend
+8,Harburg,secondary,820,30.3,4,1,4,4,Mangelhaft
+9,Wandsbek,primary,655,49.5,4,2,3,1,Sehr gut
+10,Altona,primary,630,79.8,4,1,2,2,Gut
+11,Altona,primary,442,68.1,4,2,2,4,Mangelhaft
+12,Bergedorf,primary,855,67.5,3,2,4,3,Befriedigend
+13,Wandsbek,secondary,240,49.4,3,2,2,3,Befriedigend
+14,Eimsbuettel,secondary,199,99.4,2,1,2,1,Sehr gut
+15,Harburg,primary,371,76.4,2,2,2,1,Sehr gut
+16,Hamburg‑Mitte,secondary,1079,36.3,4,2,3,1,Sehr gut
+17,Bergedorf,primary,423,39.8,4,3,1,3,Befriedigend
+18,Harburg,secondary,440,4.3,1,1,2,1,Sehr gut
+19,Altona,primary,1059,87.4,2,1,3,3,Befriedigend
+20,Bergedorf,primary,652,46.0,1,1,2,3,Befriedigend
+21,Hamburg‑Mitte,secondary,881,67.8,2,4,2,3,Befriedigend
+22,Altona,secondary,581,47.8,1,3,4,2,Gut
+23,Bergedorf,primary,758,90.5,2,4,3,4,Mangelhaft
+24,Wandsbek,primary,173,98.4,4,4,3,1,Sehr gut
+25,Altona,primary,999,73.1,3,4,4,2,Gut
+26,Hamburg‑Mitte,primary,359,6.5,2,4,3,1,Sehr gut
+27,Altona,secondary,712,2.8,1,1,1,2,Gut
+28,Eimsbuettel,primary,1193,47.4,4,4,1,3,Befriedigend
+29,Eimsbuettel,secondary,891,81.1,3,2,2,4,Mangelhaft
+30,Harburg,primary,294,88.8,1,2,1,2,Gut
+31,Hamburg‑Mitte,primary,619,26.6,2,4,3,1,Sehr gut
+32,Wandsbek,primary,268,5.7,3,4,1,2,Gut
+33,Bergedorf,primary,1168,20.6,4,2,4,4,Mangelhaft
+34,Hamburg‑Nord,primary,1113,69.9,3,3,4,3,Befriedigend
+35,Hamburg‑Nord,primary,852,49.6,3,4,2,1,Sehr gut
+36,Wandsbek,secondary,851,56.5,1,2,1,4,Mangelhaft
+37,Bergedorf,primary,459,63.6,3,2,1,1,Sehr gut
+38,Bergedorf,secondary,153,9.1,4,1,4,2,Gut
+39,Hamburg‑Mitte,secondary,1163,92.1,4,3,3,2,Gut
+40,Hamburg‑Mitte,primary,233,19.0,4,2,2,2,Gut
+41,Harburg,primary,542,80.7,2,1,3,4,Mangelhaft
+42,Altona,primary,192,23.7,4,3,2,3,Befriedigend
+43,Bergedorf,secondary,1161,31.4,2,3,2,1,Sehr gut
+44,Bergedorf,primary,322,80.8,3,1,3,4,Mangelhaft
+45,Harburg,primary,663,62.6,1,1,3,3,Befriedigend
+46,Harburg,primary,951,46.2,2,1,3,3,Befriedigend
+47,Hamburg‑Mitte,primary,772,24.8,2,1,3,4,Mangelhaft
+48,Bergedorf,secondary,980,68.4,3,4,2,3,Befriedigend
+49,Hamburg‑Mitte,secondary,170,56.4,2,2,1,1,Sehr gut
+50,Hamburg‑Mitte,vocational,997,63.0,4,4,1,4,Mangelhaft
+51,Hamburg‑Nord,primary,189,98.2,2,2,3,1,Sehr gut
+52,Altona,secondary,677,29.7,4,1,1,1,Sehr gut
+53,Hamburg‑Nord,primary,707,47.7,4,4,2,4,Mangelhaft
+54,Harburg,vocational,644,71.0,2,1,3,2,Gut
+55,Hamburg‑Mitte,secondary,830,99.8,2,4,2,2,Gut
+56,Hamburg‑Mitte,primary,1173,53.9,1,1,3,4,Mangelhaft
+57,Eimsbuettel,primary,1195,54.0,4,2,3,1,Sehr gut
+58,Harburg,primary,395,89.2,4,3,1,3,Befriedigend
+59,Wandsbek,vocational,923,33.9,4,4,4,1,Sehr gut
+60,Harburg,vocational,129,9.4,4,3,1,1,Sehr gut
+61,Wandsbek,secondary,534,92.0,4,4,2,4,Mangelhaft
+62,Bergedorf,secondary,325,33.6,4,3,1,4,Mangelhaft
+63,Hamburg‑Mitte,primary,1020,24.2,2,3,3,3,Befriedigend
+64,Hamburg‑Nord,primary,348,41.9,4,3,4,4,Mangelhaft
+65,Harburg,secondary,218,42.3,2,2,2,4,Mangelhaft
+66,Eimsbuettel,secondary,974,9.2,1,2,1,2,Gut
+67,Eimsbuettel,primary,1064,55.2,4,2,4,2,Gut
+68,Wandsbek,secondary,108,72.3,2,2,1,3,Befriedigend
+69,Altona,primary,989,50.6,4,1,3,1,Sehr gut
+70,Wandsbek,primary,547,75.6,3,3,4,4,Mangelhaft
+71,Eimsbuettel,secondary,696,43.1,4,3,3,1,Sehr gut
+72,Altona,secondary,659,5.4,3,1,4,2,Gut
+73,Wandsbek,vocational,292,37.2,1,2,1,4,Mangelhaft
+74,Altona,primary,1041,32.0,3,1,1,1,Sehr gut
+75,Hamburg‑Nord,vocational,820,91.0,3,2,2,1,Sehr gut
+76,Harburg,primary,387,3.6,4,3,2,2,Gut
+77,Hamburg‑Nord,secondary,122,36.9,2,4,2,2,Gut
+78,Hamburg‑Nord,vocational,862,86.3,3,2,4,4,Mangelhaft
+79,Bergedorf,primary,1021,80.6,4,2,4,1,Sehr gut
+80,Wandsbek,secondary,962,65.2,4,2,4,2,Gut
+81,Wandsbek,primary,221,18.5,3,2,4,3,Befriedigend
+82,Altona,secondary,731,93.9,2,4,3,4,Mangelhaft
+83,Harburg,vocational,1188,75.7,4,3,1,3,Befriedigend
+84,Wandsbek,primary,1008,66.2,1,3,1,4,Mangelhaft
+85,Hamburg‑Nord,secondary,1057,92.5,3,2,1,3,Befriedigend
+86,Wandsbek,secondary,855,65.2,4,3,2,1,Sehr gut
+87,Eimsbuettel,secondary,809,61.3,1,1,2,4,Mangelhaft
+88,Bergedorf,secondary,465,95.8,1,1,3,3,Befriedigend
+89,Eimsbuettel,primary,265,10.0,1,4,4,4,Mangelhaft
+90,Harburg,primary,901,56.7,3,4,1,3,Befriedigend
+91,Hamburg‑Nord,primary,454,5.5,3,2,1,2,Gut
+92,Hamburg‑Mitte,primary,1153,88.3,4,3,4,2,Gut
+93,Wandsbek,secondary,651,39.2,2,4,3,2,Gut
+94,Harburg,secondary,103,42.6,4,1,4,4,Mangelhaft
+95,Eimsbuettel,secondary,423,30.4,1,3,4,4,Mangelhaft
+96,Wandsbek,secondary,211,93.3,1,3,1,4,Mangelhaft
+97,Eimsbuettel,secondary,1084,99.2,2,2,4,3,Befriedigend
+98,Hamburg‑Nord,primary,207,77.9,2,1,2,2,Gut
+99,Eimsbuettel,secondary,424,5.9,3,1,3,4,Mangelhaft
+100,Harburg,secondary,460,3.1,4,3,2,3,Befriedigend
+101,Harburg,secondary,1156,95.6,3,4,1,3,Befriedigend
+102,Bergedorf,secondary,438,56.8,3,4,4,4,Mangelhaft
+103,Wandsbek,primary,763,81.7,4,1,1,4,Mangelhaft
+104,Bergedorf,secondary,962,64.7,1,4,3,1,Sehr gut
+105,Harburg,secondary,1055,82.8,2,4,2,2,Gut
+106,Altona,primary,542,31.8,1,1,2,4,Mangelhaft
+107,Eimsbuettel,secondary,902,85.8,4,2,4,3,Befriedigend
+108,Hamburg‑Nord,primary,127,71.6,4,1,4,4,Mangelhaft
+109,Hamburg‑Nord,secondary,1046,46.5,3,1,1,2,Gut
+110,Hamburg‑Mitte,secondary,1019,65.3,4,4,2,3,Befriedigend
+111,Hamburg‑Nord,secondary,445,10.9,2,1,3,3,Befriedigend
+112,Altona,secondary,391,35.2,4,1,4,3,Befriedigend
+113,Wandsbek,primary,560,17.4,3,1,3,2,Gut
+114,Bergedorf,primary,831,97.9,4,3,2,3,Befriedigend
+115,Hamburg‑Mitte,primary,761,88.1,2,4,1,1,Sehr gut
+116,Eimsbuettel,primary,977,17.9,4,4,2,2,Gut
+117,Altona,secondary,542,27.8,2,4,3,4,Mangelhaft
+118,Wandsbek,secondary,851,9.8,3,3,3,1,Sehr gut
+119,Eimsbuettel,secondary,536,46.4,1,4,3,1,Sehr gut
+120,Hamburg‑Nord,primary,1032,16.5,1,4,3,2,Gut
+121,Hamburg‑Nord,secondary,743,16.3,2,2,1,3,Befriedigend
+122,Wandsbek,secondary,393,72.3,2,4,1,2,Gut
+123,Hamburg‑Mitte,primary,925,49.9,4,2,4,3,Befriedigend
+124,Hamburg‑Nord,secondary,295,7.6,3,4,1,2,Gut
+125,Hamburg‑Nord,secondary,276,90.5,4,1,4,4,Mangelhaft
+126,Hamburg‑Mitte,primary,473,48.4,4,4,2,1,Sehr gut
+127,Hamburg‑Nord,secondary,104,99.6,1,3,1,2,Gut
+128,Bergedorf,secondary,1039,29.0,2,1,4,2,Gut
+129,Hamburg‑Mitte,secondary,984,73.3,4,4,3,3,Befriedigend
+130,Bergedorf,secondary,896,21.2,3,2,1,3,Befriedigend
+131,Hamburg‑Nord,secondary,504,53.7,4,3,1,4,Mangelhaft
+132,Wandsbek,secondary,769,72.2,3,4,1,1,Sehr gut
+133,Harburg,secondary,372,7.0,3,2,1,2,Gut
+134,Altona,secondary,345,88.7,4,1,1,3,Befriedigend
+135,Bergedorf,secondary,639,96.4,1,3,2,4,Mangelhaft
+136,Hamburg‑Nord,secondary,1079,83.6,1,1,3,1,Sehr gut
+137,Altona,primary,1107,35.1,1,3,1,1,Sehr gut
+138,Bergedorf,secondary,224,58.6,3,1,3,1,Sehr gut
+139,Hamburg‑Nord,vocational,1192,54.5,2,1,2,4,Mangelhaft
+140,Hamburg‑Mitte,secondary,847,93.6,2,2,3,1,Sehr gut
+141,Wandsbek,secondary,605,35.2,1,2,4,4,Mangelhaft
+142,Bergedorf,secondary,894,30.7,3,3,4,3,Befriedigend
+143,Altona,vocational,1062,93.9,4,4,2,2,Gut
+144,Harburg,primary,841,48.6,2,2,1,1,Sehr gut
+145,Harburg,vocational,818,53.2,4,1,3,4,Mangelhaft
+146,Hamburg‑Nord,primary,265,22.6,2,4,4,2,Gut
+147,Altona,primary,858,31.9,4,4,3,1,Sehr gut
+148,Harburg,primary,127,57.4,1,4,4,4,Mangelhaft
+149,Wandsbek,primary,1001,19.6,3,3,3,4,Mangelhaft
+150,Altona,secondary,603,72.3,1,1,3,2,Gut
+151,Bergedorf,vocational,936,50.3,1,3,4,4,Mangelhaft
+152,Wandsbek,vocational,796,19.6,1,2,4,3,Befriedigend
+153,Wandsbek,secondary,108,58.8,1,4,2,3,Befriedigend
+154,Bergedorf,primary,1098,1.5,1,1,4,4,Mangelhaft
+155,Hamburg‑Mitte,secondary,476,78.6,2,1,2,1,Sehr gut
+156,Hamburg‑Nord,secondary,1045,65.0,1,1,1,3,Befriedigend
+157,Hamburg‑Mitte,secondary,678,29.6,4,4,4,2,Gut
+158,Hamburg‑Nord,primary,1176,61.4,1,4,3,1,Sehr gut
+159,Hamburg‑Nord,primary,1157,59.2,2,4,2,3,Befriedigend
+160,Wandsbek,primary,934,57.0,4,4,3,4,Mangelhaft
+161,Bergedorf,secondary,736,41.0,1,1,3,3,Befriedigend
+162,Wandsbek,vocational,252,55.8,4,1,2,3,Befriedigend
+163,Harburg,secondary,1169,58.3,1,1,2,2,Gut
+164,Eimsbuettel,secondary,341,79.7,2,1,3,4,Mangelhaft
+165,Wandsbek,primary,262,60.8,1,2,3,4,Mangelhaft
+166,Eimsbuettel,primary,954,12.3,3,3,2,2,Gut
+167,Hamburg‑Mitte,secondary,655,75.3,2,3,1,4,Mangelhaft
+168,Bergedorf,primary,1116,53.5,3,3,3,3,Befriedigend
+169,Altona,primary,918,4.0,4,4,2,2,Gut
+170,Bergedorf,secondary,508,1.6,1,1,1,3,Befriedigend
+171,Bergedorf,vocational,224,16.3,4,4,4,1,Sehr gut
+172,Eimsbuettel,primary,1180,35.2,1,4,2,3,Befriedigend
+173,Hamburg‑Nord,secondary,840,11.6,1,3,1,4,Mangelhaft
+174,Altona,secondary,724,25.0,4,1,2,1,Sehr gut
+175,Harburg,primary,827,34.8,3,1,4,1,Sehr gut
+176,Hamburg‑Nord,primary,272,81.8,2,3,2,2,Gut
+177,Eimsbuettel,secondary,127,50.2,2,3,1,4,Mangelhaft
+178,Hamburg‑Mitte,primary,1098,4.1,4,2,4,2,Gut
+179,Eimsbuettel,primary,786,63.7,2,4,1,1,Sehr gut
+180,Altona,primary,722,29.1,4,3,1,1,Sehr gut
+181,Wandsbek,primary,516,31.4,2,4,2,4,Mangelhaft
+182,Hamburg‑Nord,secondary,197,41.3,3,1,3,4,Mangelhaft
+183,Hamburg‑Mitte,primary,895,65.7,2,4,1,2,Gut
+184,Wandsbek,primary,1029,43.9,3,2,4,2,Gut
+185,Bergedorf,primary,269,80.5,3,2,3,4,Mangelhaft
+186,Wandsbek,primary,250,61.2,1,3,1,2,Gut
+187,Hamburg‑Nord,secondary,169,64.3,2,4,1,4,Mangelhaft
+188,Hamburg‑Nord,vocational,939,78.4,3,1,4,4,Mangelhaft
+189,Harburg,primary,258,94.6,3,2,4,3,Befriedigend
+190,Hamburg‑Mitte,primary,119,59.5,4,2,3,4,Mangelhaft
+191,Altona,primary,1098,88.1,2,3,4,4,Mangelhaft
+192,Hamburg‑Mitte,secondary,358,82.2,2,1,1,3,Befriedigend
+193,Hamburg‑Nord,primary,447,7.1,1,4,4,1,Sehr gut
+194,Hamburg‑Nord,primary,623,2.3,2,3,4,2,Gut
+195,Eimsbuettel,vocational,101,78.8,3,1,1,2,Gut
+196,Bergedorf,secondary,1118,92.2,3,1,2,3,Befriedigend
+197,Eimsbuettel,primary,230,82.2,2,3,1,1,Sehr gut
+198,Hamburg‑Mitte,primary,1060,99.0,3,4,2,4,Mangelhaft
+199,Hamburg‑Nord,primary,737,29.2,1,2,3,2,Gut
+200,Wandsbek,secondary,1101,92.2,3,3,1,1,Sehr gut
